@@ -1,5 +1,5 @@
 # House-Price-Prediction
-**Author**: Rumana Sultana
+**Author**: Rumana Sultana, Mahsa Rahamian
 
 House Price prediction using Data Mining
 
