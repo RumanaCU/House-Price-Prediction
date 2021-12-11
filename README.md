@@ -14,6 +14,8 @@ House Price prediction using Data Mining
 **Platforms:** Jupyter notebook, Python3, Matplotlib, NumPy, SciPy, sklearn, etc. 
 
 **Description of Project:**  The goal of the project to define a Data Mining Solution to be able to predict with some accuracy (currently 45% for linear model) the future home prices for potential investors. 
-   &emsp;  &emsp;  &emsp;&emsp; &emsp;  &emsp;  &emsp;&emsp;   <img src="work process1.png">
-<br />
+
+<br /> Some Results: 
+
+   &emsp;  &emsp;  &emsp;&emsp; &emsp;  &emsp;  &emsp;&emsp;   <img src="MetroResult1LR.png">
 
